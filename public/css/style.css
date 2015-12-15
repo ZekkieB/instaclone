@@ -1,0 +1,37 @@
+/* line 1, C:/Users/zakaria/Desktop/instaclone/public/css/style.sass */
+html, body {
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  height: 100%;
+  background: #ccc;
+  font-family: Arial, sans-serif; }
+
+/* line 9, C:/Users/zakaria/Desktop/instaclone/public/css/style.sass */
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center; }
+
+/* line 14, C:/Users/zakaria/Desktop/instaclone/public/css/style.sass */
+form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 25%;
+  height: 75%;
+  background: #fff;
+  padding: 1rem;
+  border-radius: 2px;
+  box-shadow: 0px 1px 1px #999; }
+
+/* line 26, C:/Users/zakaria/Desktop/instaclone/public/css/style.sass */
+input {
+  padding: 0.8rem;
+  width: 90%;
+  border-radius: 2px;
+  border: 1px solid #ccc;
+  margin-bottom: 0.9rem; }
+
+/*# sourceMappingURL=style.css.map */
