@@ -21,8 +21,8 @@ router.get('/login',function(req,res){
 })
 
 router.get('/timeline',function(req,res){
-    res.send('hi');
-})
+    res.render('timeline');
+});
 
 
 

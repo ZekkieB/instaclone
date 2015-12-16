@@ -34,4 +34,20 @@ input {
   border: 1px solid #ccc;
   margin-bottom: 0.9rem; }
 
+/* line 33, C:/Users/zakaria/Desktop/instaclone/public/css/style.sass */
+section#top {
+  width: 50rem;
+  height: 10rem;
+  background: #fff;
+  display: flex;
+  align-items: center; }
+
+/* line 40, C:/Users/zakaria/Desktop/instaclone/public/css/style.sass */
+section#profile-img {
+  height: 8rem;
+  width: 8rem;
+  background: #ccc;
+  margin-left: 1rem;
+  border-radius: 50rem; }
+
 /*# sourceMappingURL=style.css.map */

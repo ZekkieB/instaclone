@@ -31,6 +31,7 @@ app.use(session({
 
 
 app.use('/',mainRouter);
+app.use('/timeline',mainRouter);
 
 
 
